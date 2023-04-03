@@ -67,7 +67,10 @@ body h6 {
 .notification:hover{
 	color: red!important;
 }
-
+.smImg{
+	width:70px!important ; 
+	height: auto!important;
+}
 /* end new added styles  */
 h1 { font-size: 48px;}
 h2 { font-size: 36px;}
